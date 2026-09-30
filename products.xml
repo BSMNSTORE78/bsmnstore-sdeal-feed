@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <sku>M33-9502523423386</sku>
+    <ean>9502523423386</ean>
+    <title>M33 Drone | HD Cam. 4K - 6K Optical Flow | Obstacle Avoidance | Pro</title>
+    <brand>M33</brand>
+    <price>165.75</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/drone-hd-camera-4k-6k-optical-zoom-groot-scherm-controller</product_url>
+    <description>M33 Drone met 4K-6K HD-camera, optical flow en obstacle avoidance.</description>
+  </product>
+</products>
