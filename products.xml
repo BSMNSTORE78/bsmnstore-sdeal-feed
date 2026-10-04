@@ -87,4 +87,17 @@
     <product_url>https://bsmn-company.jortt.shop/product/drone-hd-dual-camera-etui-1-batterij-grijs</product_url>
     <description>E88 Pro drone in grijs met HD dual camera, 1 batterij en opbergetui.</description>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTExLCJwdXIiOiJibG9iX2lkIn19--0d8b6bc09e75dbe21c5f45fe43a07a2e8f6a60d9/e88-drone-drone-hd-dual-camer-1-batt-etui-grijs.jpg</image_url>  </product>
+  <product>
+  <sku>M33BAT-9508252823299</sku>
+  <ean>9508252823299</ean>
+  <title>M33 Drone Batterij | 3.7V 300mAh LiPo | Onderdeel M33</title>
+  <brand>M33</brand>
+  <price>29.95</price>
+  <currency>EUR</currency>
+  <stock>1</stock>
+  <availability>in_stock</availability>
+  <product_url>https://bsmn-company.jortt.shop/product/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33</product_url>
+  <description>M33 drone batterij 3.7V 300mAh LiPo, geschikt als vervangende accu voor de M33 drone.</description>
+  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUxNjIxLCJwdXIiOiJibG9iX2lkIn19--fded1c04edff98511899ba5db7f14c7fdd27a25c/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33.jpg</image_url>
+</product>
   </products>
