@@ -23,4 +23,17 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-3x-camera-obstakel-vermijding-groot-scherm-controller</product_url>
-    <description>AE8 Evo drone met 3 camera's, 4K camera, obstakelvermijding en groot scherm controller.</description><image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MDM2LCJwdXIiOiJibG9iX2lkIn19--c8fe665ffc02c94fad95df5a0a7ea1d6cec16d07/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2xpbWl0IjpbMjU2MCwyMDQ4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--886924f18d985cbd00de5be23139e2b77d76d7d7/ae8-evo-3x-camera-4k-luchtfoto-laser-obstakel-vermijding.jpeg</image_url></product></products>
+    <description>AE8 Evo drone met 3 camera's, 4K camera, obstakelvermijding en groot scherm controller.</description><image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MDM2LCJwdXIiOiJibG9iX2lkIn19--c8fe665ffc02c94fad95df5a0a7ea1d6cec16d07/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2xpbWl0IjpbMjU2MCwyMDQ4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--886924f18d985cbd00de5be23139e2b77d76d7d7/ae8-evo-3x-camera-4k-luchtfoto-laser-obstakel-vermijding.jpeg</image_url></product>
+  <product>
+    <sku>E88PRO-9501284621420</sku>
+    <ean>9501284621420</ean>
+    <title>E88 Pro Max Drone | Camera | RC Screen Controller | Zwart</title>
+    <brand>E88 Pro Max</brand>
+    <price>69.95</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-screen-controller-zwart</product_url>
+    <description>E88 Pro Max drone met camera en RC controller met scherm, uitgevoerd in zwart.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2ODAzLCJwdXIiOiJibG9iX2lkIn19--e3a8ccc53a74809bc5b00373018472edf6e757a8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/drone-camera-rc-screen-controller-zwart.png</image_url>
+  </product>/products>
