@@ -75,4 +75,16 @@
     <product_url>https://bsmn-company.jortt.shop/product/e88-4k-drone-drone-met-camera-en-opbergtas</product_url>
     <description>E88 4K drone met camera en handige opbergtas.</description><image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyODM3LCJwdXIiOiJibG9iX2lkIn19--aed38dc6bdbe3464824308263faa1e010ac06e53/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--bf55df0cb45a1dbb9fada5a30049eefe0ea7a22f/e88-4k-drone-drone-met-camera-en-opbergtas.jpg</image_url>  
     </product>
+    <product>
+    <sku>E88PROGREY-8720299891937</sku>
+    <ean>8720299891937</ean>
+    <title>E88 Pro Drone | HD Dual Camera | 1 Batterij + Etui | Grijs</title>
+    <brand>E88 Pro</brand>
+    <price>39.95</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/drone-hd-dual-camera-etui-1-batterij-grijs</product_url>
+    <description>E88 Pro drone in grijs met HD dual camera, 1 batterij en opbergetui.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTExLCJwdXIiOiJibG9iX2lkIn19--0d8b6bc09e75dbe21c5f45fe43a07a2e8f6a60d9/e88-drone-drone-hd-dual-camer-1-batt-etui-grijs.jpg</image_url>  </product>
   </products>
