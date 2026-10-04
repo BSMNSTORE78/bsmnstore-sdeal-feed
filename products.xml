@@ -50,4 +50,17 @@
     <description>E88 Pro Max drone met camera en RC controller met groot scherm, uitgevoerd in grijs.</description>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMzI2LCJwdXIiOiJibG9iX2lkIn19--fb9f6cd01c7cd1424a68ae814e24eaffdb9663fe/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/e88-pro-max-camera-drone-rc-controller-with-screen-grijs.png</image_url>
   </product> 
-</products>
+  <product>
+    <sku>S156-6151926464491</sku>
+    <ean>6151926464491</ean>
+    <title>S156 Drone | GPS | 8K Pro HD | 360 Camera | Obstacle Avoidance</title>
+    <brand>S156</brand>
+    <price>185.00</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/drone-gps-8k-pro-hd-360-camerascherm-obstacle-avoidance</product_url>
+    <description>S156 drone met GPS, 8K Pro HD 360 camera en obstacle avoidance.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MDQ4LCJwdXIiOiJibG9iX2lkIn19--3801c8f51bbf9b4ed61da3bbc63a01f1364c3ef4/drone-s156-gps-8k-pro-hd-360-camerascherm-obstacle-avoidance.jpg</image_url>
+  </product>
+  </products>
