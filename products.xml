@@ -123,5 +123,19 @@
   <availability>in_stock</availability>
   <product_url>https://bsmn-company.jortt.shop/product/rc-drone-batterij-37-v-1800-mah-uavbatterij-met-hoge-capaciteit</product_url>
   <description>E88 RC drone batterij 3.7V 1800mAh met hoge capaciteit, geschikt als vervangende UAV-batterij.</description>
-  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTQ4LCJwdXIiOiJibG9iX2lkIn19--1e2d1a6f89128664e6ea6071081fe3169d0045d4/rc-dronebatterij-37-v-1800-mah-uavbatterij-grijs.jpg</image_url></product>
+  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTQ4LCJwdXIiOiJibG9iX2lkIn19--1e2d1a6f89128664e6ea6071081fe3169d0045d4/rc-dronebatterij-37-v-1800-mah-uavbatterij-grijs.jpg</image_url>
+  </product>
+  <product>
+  <sku>K11-6151928078047</sku>
+  <ean>6151928078047</ean>
+  <title>K11 Drone 8K | 3x HD Camera | Video 4K | 5G | Obstacle Avoidance</title>
+  <brand>K11</brand>
+  <price>99.00</price>
+  <currency>EUR</currency>
+  <stock>1</stock>
+  <availability>in_stock</availability>
+  <product_url>https://bsmn-company.jortt.shop/product/k11-drone-8k-3x-hd-camera-video-4k-5g-obstacle-avoidance</product_url>
+  <description>K11 drone met 3 HD-camera's, 4K video, 5G verbinding en obstacle avoidance.</description>
+  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY1MDA2LCJwdXIiOiJibG9iX2lkIn19--6e90458705240a2d0317a5af82a1e25525fb2248/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/K11%201.png</image_url>
+</product>
   </products>
