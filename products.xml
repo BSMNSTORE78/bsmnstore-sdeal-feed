@@ -36,4 +36,18 @@
     <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-screen-controller-zwart</product_url>
     <description>E88 Pro Max drone met camera en RC controller met scherm, uitgevoerd in zwart.</description>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2ODAzLCJwdXIiOiJibG9iX2lkIn19--e3a8ccc53a74809bc5b00373018472edf6e757a8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/drone-camera-rc-screen-controller-zwart.png</image_url>
-  </product>/products>
+  </product> 
+  <product>
+    <sku>E88PROGREY-9502537412666</sku>
+    <ean>9502537412666</ean>
+    <title>E88 Pro Max Drone | Camera | RC Controller met Groot Scherm | Grijs</title>
+    <brand>E88 Pro Max</brand>
+    <price>69.95</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-controller-big-screen-grijs</product_url>
+    <description>E88 Pro Max drone met camera en RC controller met groot scherm, uitgevoerd in grijs.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMzI2LCJwdXIiOiJibG9iX2lkIn19--fb9f6cd01c7cd1424a68ae814e24eaffdb9663fe/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/e88-pro-max-camera-drone-rc-controller-with-screen-grijs.png</image_url>
+  </product> 
+</products>
