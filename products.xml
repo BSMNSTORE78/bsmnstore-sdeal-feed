@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
+
   <product>
     <sku>M33-9502523423386</sku>
     <ean>9502523423386</ean>
@@ -10,10 +11,11 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-hd-camera-4k-6k-optical-zoom-groot-scherm-controller</product_url>
-    <description>M33 Drone met 4K-6K HD-camera, optical flow en obstacle avoidance.</description>
+    <description>M33 drone met HD-camera, 4K-6K beeldmogelijkheden, optical flow en obstacle avoidance. Uitgerust met een controller met groot scherm voor directe bediening en beeldweergave. Een compleet uitgevoerde drone voor het maken van luchtbeelden en het ontdekken van dronevliegen.</description>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUyOTU0LCJwdXIiOiJibG9iX2lkIn19--671c3ded518b937fa85bb0932379bdb910f6e3d3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls4MDAsNjQwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--39ee8f32a1723ad87e3c04d4b5d727494131628c/m33-drone-hd-camera-4k-6k-optical-zoom-groot-scherm-controller.png</image_url>
   </product>
-    <product>
+
+  <product>
     <sku>AE8EVO-9508193251694</sku>
     <ean>9508193251694</ean>
     <title>AE8 Evo Drone | 3x Camera 4K | Obstacle Avoidance | Groot Scherm Controller</title>
@@ -23,7 +25,10 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-3x-camera-obstakel-vermijding-groot-scherm-controller</product_url>
-    <description>AE8 Evo drone met 3 camera's, 4K camera, obstakelvermijding en groot scherm controller.</description><image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MDM2LCJwdXIiOiJibG9iX2lkIn19--c8fe665ffc02c94fad95df5a0a7ea1d6cec16d07/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2xpbWl0IjpbMjU2MCwyMDQ4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--886924f18d985cbd00de5be23139e2b77d76d7d7/ae8-evo-3x-camera-4k-luchtfoto-laser-obstakel-vermijding.jpeg</image_url></product>
+    <description>AE8 Evo drone met 3 camera's, 4K-camera, obstacle avoidance en een controller met groot scherm. Ontworpen voor het maken van luchtbeelden en een overzichtelijke bediening tijdens het vliegen. De combinatie van meerdere camera's en obstakeldetectie maakt dit een uitgebreid uitgerust model.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MDM2LCJwdXIiOiJibG9iX2lkIn19--c8fe665ffc02c94fad95df5a0a7ea1d6cec16d07/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2xpbWl0IjpbMjU2MCwyMDQ4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--886924f18d985cbd00de5be23139e2b77d76d7d7/ae8-evo-3x-camera-4k-luchtfoto-laser-obstakel-vermijding.jpeg</image_url>
+  </product>
+
   <product>
     <sku>E88PRO-9501284621420</sku>
     <ean>9501284621420</ean>
@@ -34,9 +39,10 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-screen-controller-zwart</product_url>
-    <description>E88 Pro Max drone met camera en RC controller met scherm, uitgevoerd in zwart.</description>
+    <description>E88 Pro Max drone in zwart met ingebouwde camera en RC-controller met scherm. Dankzij het scherm op de controller heb je tijdens het vliegen direct toegang tot de bediening en beeldweergave. Een compacte drone voor het maken van luchtbeelden en recreatief dronevliegen.</description>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2ODAzLCJwdXIiOiJibG9iX2lkIn19--e3a8ccc53a74809bc5b00373018472edf6e757a8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/drone-camera-rc-screen-controller-zwart.png</image_url>
-  </product> 
+  </product>
+
   <product>
     <sku>E88PROGREY-9502537412666</sku>
     <ean>9502537412666</ean>
@@ -47,9 +53,10 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-controller-big-screen-grijs</product_url>
-    <description>E88 Pro Max drone met camera en RC controller met groot scherm, uitgevoerd in grijs.</description>
+    <description>E88 Pro Max drone in grijs met ingebouwde camera en RC-controller met groot scherm. Het grote scherm op de controller zorgt voor een overzichtelijke bediening en directe beeldweergave tijdens het vliegen. Een compacte drone voor het maken van luchtbeelden en recreatief dronevliegen.</description>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMzI2LCJwdXIiOiJibG9iX2lkIn19--fb9f6cd01c7cd1424a68ae814e24eaffdb9663fe/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/e88-pro-max-camera-drone-rc-controller-with-screen-grijs.png</image_url>
-  </product> 
+  </product>
+
   <product>
     <sku>S156-6151926464491</sku>
     <ean>6151926464491</ean>
@@ -60,10 +67,11 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-gps-8k-pro-hd-360-camerascherm-obstacle-avoidance</product_url>
-    <description>S156 drone met GPS, 8K Pro HD 360 camera en obstacle avoidance.</description>
+    <description>S156 drone met GPS, 8K Pro HD 360-camera en obstacle avoidance. De combinatie van GPS-ondersteuning, camera en obstakeldetectie biedt extra mogelijkheden tijdens het vliegen en het maken van luchtbeelden. Een uitgebreid model voor recreatief dronegebruik.</description>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MDQ4LCJwdXIiOiJibG9iX2lkIn19--3801c8f51bbf9b4ed61da3bbc63a01f1364c3ef4/drone-s156-gps-8k-pro-hd-360-camerascherm-obstacle-avoidance.jpg</image_url>
   </product>
-    <product>
+
+  <product>
     <sku>E88-8720299544918</sku>
     <ean>8720299544918</ean>
     <title>E88 4K Drone | Camera | Opbergtas</title>
@@ -73,9 +81,11 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/e88-4k-drone-drone-met-camera-en-opbergtas</product_url>
-    <description>E88 4K drone met camera en handige opbergtas.</description><image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyODM3LCJwdXIiOiJibG9iX2lkIn19--aed38dc6bdbe3464824308263faa1e010ac06e53/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--bf55df0cb45a1dbb9fada5a30049eefe0ea7a22f/e88-4k-drone-drone-met-camera-en-opbergtas.jpg</image_url>  
-    </product>
-    <product>
+    <description>E88 4K drone met camera en handige opbergtas. Het compacte ontwerp maakt de drone eenvoudig mee te nemen en de camera is geschikt voor het maken van luchtbeelden tijdens recreatief gebruik. De meegeleverde opbergtas helpt de drone en accessoires netjes te bewaren en te vervoeren.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyODM3LCJwdXIiOiJibG9iX2lkIn19--aed38dc6bdbe3464824308263faa1e010ac06e53/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--bf55df0cb45a1dbb9fada5a30049eefe0ea7a22f/e88-4k-drone-drone-met-camera-en-opbergtas.jpg</image_url>
+  </product>
+
+  <product>
     <sku>E88PROGREY-8720299891937</sku>
     <ean>8720299891937</ean>
     <title>E88 Pro Drone | HD Dual Camera | 1 Batterij + Etui | Grijs</title>
@@ -85,69 +95,78 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-hd-dual-camera-etui-1-batterij-grijs</product_url>
-    <description>E88 Pro drone in grijs met HD dual camera, 1 batterij en opbergetui.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTExLCJwdXIiOiJibG9iX2lkIn19--0d8b6bc09e75dbe21c5f45fe43a07a2e8f6a60d9/e88-drone-drone-hd-dual-camer-1-batt-etui-grijs.jpg</image_url>  </product>
-  <product>
-  <sku>M33BAT-9508252823299</sku>
-  <ean>9508252823299</ean>
-  <title>M33 Drone Batterij | 3.7V 300mAh LiPo | Onderdeel M33</title>
-  <brand>M33</brand>
-  <price>29.95</price>
-  <currency>EUR</currency>
-  <stock>1</stock>
-  <availability>in_stock</availability>
-  <product_url>https://bsmn-company.jortt.shop/product/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33</product_url>
-  <description>M33 drone batterij 3.7V 300mAh LiPo, geschikt als vervangende accu voor de M33 drone.</description>
-  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUxNjIxLCJwdXIiOiJibG9iX2lkIn19--fded1c04edff98511899ba5db7f14c7fdd27a25c/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33.jpg</image_url>
-</product>
-  <product>
-  <sku>E88PROBAT-6151025529510</sku>
-  <ean>6151025529510</ean>
-  <title>E88 Pro Batterij | Geschikt voor Quad Drone met Camera | Zwart</title>
-  <brand>E88 Pro</brand>
-  <price>19.00</price>
-  <currency>EUR</currency>
-  <stock>1</stock>
-  <availability>in_stock</availability>
-  <product_url>https://bsmn-company.jortt.shop/product/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart</product_url>
-  <description>E88 Pro batterij, geschikt als vervangende accu voor de E88 Pro quad drone met camera.</description>
-  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNzg4LCJwdXIiOiJibG9iX2lkIn19--4d89df7062a2028f9a7e00ef1ae7240fb35e8377/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart.jpg</image_url></product>
-  <product>
-  <sku>E88BAT1800-9508319288160</sku>
-  <ean>9508319288160</ean>
-  <title>E88 RC Drone Batterij | 3.7V 1800mAh | Hoge Capaciteit</title>
-  <brand>E88</brand>
-  <price>19.00</price>
-  <currency>EUR</currency>
-  <stock>1</stock>
-  <availability>in_stock</availability>
-  <product_url>https://bsmn-company.jortt.shop/product/rc-drone-batterij-37-v-1800-mah-uavbatterij-met-hoge-capaciteit</product_url>
-  <description>E88 RC drone batterij 3.7V 1800mAh met hoge capaciteit, geschikt als vervangende UAV-batterij.</description>
-  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTQ4LCJwdXIiOiJibG9iX2lkIn19--1e2d1a6f89128664e6ea6071081fe3169d0045d4/rc-dronebatterij-37-v-1800-mah-uavbatterij-grijs.jpg</image_url>
+    <description>E88 Pro drone in grijs met HD dual camera, 1 batterij en opbergetui. De dubbele camera biedt verschillende mogelijkheden voor het maken van luchtbeelden. Dankzij het compacte ontwerp en het meegeleverde etui is de drone gemakkelijk op te bergen en mee te nemen.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTExLCJwdXIiOiJibG9iX2lkIn19--0d8b6bc09e75dbe21c5f45fe43a07a2e8f6a60d9/e88-drone-drone-hd-dual-camer-1-batt-etui-grijs.jpg</image_url>
   </product>
+
   <product>
-  <sku>K11-6151928078047</sku>
-  <ean>6151928078047</ean>
-  <title>K11 Drone 8K | 3x HD Camera | Video 4K | 5G | Obstacle Avoidance</title>
-  <brand>K11</brand>
-  <price>99.00</price>
-  <currency>EUR</currency>
-  <stock>1</stock>
-  <availability>in_stock</availability>
-  <product_url>https://bsmn-company.jortt.shop/product/k11-drone-8k-3x-hd-camera-video-4k-5g-obstacle-avoidance</product_url>
-  <description>K11 drone met 3 HD-camera's, 4K video, 5G verbinding en obstacle avoidance.</description>
-  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY1MDA2LCJwdXIiOiJibG9iX2lkIn19--6e90458705240a2d0317a5af82a1e25525fb2248/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/K11%201.png</image_url>
-</product>
+    <sku>M33BAT-9508252823299</sku>
+    <ean>9508252823299</ean>
+    <title>M33 Drone Batterij | 3.7V 300mAh LiPo | Onderdeel M33</title>
+    <brand>M33</brand>
+    <price>29.95</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33</product_url>
+    <description>M33 drone batterij van 3.7V en 300mAh LiPo, geschikt als vervangende of extra accu voor de M33 drone. Handig als reservebatterij zodat je een extra accu beschikbaar hebt wanneer de oorspronkelijke batterij moet worden opgeladen.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUxNjIxLCJwdXIiOiJibG9iX2lkIn19--fded1c04edff98511899ba5db7f14c7fdd27a25c/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33.jpg</image_url>
+  </product>
+
   <product>
-  <sku>4DRCV2-9509184923927</sku>
-  <ean>9509184923927</ean>
-  <title>4DRC Mini Pocket Drone V2 | HD Camera | Opvouwbaar</title>
-  <brand>4DRC</brand>
-  <price>36.58</price>
-  <currency>EUR</currency>
-  <stock>1</stock>
-  <availability>in_stock</availability>
- <description>4DRC Mini Pocket Drone V2. Compacte en opvouwbare drone met HD-camera, afstandsbediening en ondersteuning voor een smartphone-app. Geschikt voor beginnende dronepiloten. Inclusief dronebatterij, USB-oplaadkabel, telefoonhouder, reservepropellers, propellerbeschermers en schroevendraaier.</description>  
-  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTkzNjcwLCJwdXIiOiJibG9iX2lkIn19--b6aec0f4aeb7c5a38af12e978bbb761b401ffcdc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAsMTI4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ%3D%3D--bb4e0307044c40b676c66af4ed598e02263dec70/mini-pocket-drone-v2.jpg</image_url>
-</product>
-  </products>
+    <sku>E88PROBAT-6151025529510</sku>
+    <ean>6151025529510</ean>
+    <title>E88 Pro Batterij | Geschikt voor Quad Drone met Camera | Zwart</title>
+    <brand>E88 Pro</brand>
+    <price>19.00</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart</product_url>
+    <description>E88 Pro batterij in zwart, geschikt als vervangende of extra accu voor de E88 Pro quad drone met camera. Ideaal als reservebatterij wanneer je een extra accu bij de hand wilt hebben tijdens het gebruik van de drone.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNzg4LCJwdXIiOiJibG9iX2lkIn19--4d89df7062a2028f9a7e00ef1ae7240fb35e8377/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart.jpg</image_url>
+  </product>
+
+  <product>
+    <sku>E88BAT1800-9508319288160</sku>
+    <ean>9508319288160</ean>
+    <title>E88 RC Drone Batterij | 3.7V 1800mAh | Hoge Capaciteit</title>
+    <brand>E88</brand>
+    <price>19.00</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/rc-drone-batterij-37-v-1800-mah-uavbatterij-met-hoge-capaciteit</product_url>
+    <description>E88 RC drone batterij van 3.7V en 1800mAh met hoge capaciteit, geschikt als vervangende of extra UAV-batterij. Handig als reserveaccu voor compatibele drones zodat je een extra batterij beschikbaar hebt wanneer de andere wordt opgeladen.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTQ4LCJwdXIiOiJibG9iX2lkIn19--1e2d1a6f89128664e6ea6071081fe3169d0045d4/rc-dronebatterij-37-v-1800-mah-uavbatterij-grijs.jpg</image_url>
+  </product>
+
+  <product>
+    <sku>K11-6151928078047</sku>
+    <ean>6151928078047</ean>
+    <title>K11 Drone 8K | 3x HD Camera | Video 4K | 5G | Obstacle Avoidance</title>
+    <brand>K11</brand>
+    <price>99.00</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/k11-drone-8k-3x-hd-camera-video-4k-5g-obstacle-avoidance</product_url>
+    <description>K11 drone met 3 HD-camera's, 4K-video, 5G-verbinding en obstacle avoidance. De combinatie van meerdere camera's en obstakeldetectie biedt uitgebreide mogelijkheden voor het maken van luchtbeelden. Ontworpen voor recreatief vliegen met een veelzijdige camera-opstelling.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY1MDA2LCJwdXIiOiJibG9iX2lkIn19--6e90458705240a2d0317a5af82a1e25525fb2248/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/K11%201.png</image_url>
+  </product>
+
+  <product>
+    <sku>4DRCV2-9509184923927</sku>
+    <ean>9509184923927</ean>
+    <title>4DRC Mini Pocket Drone V2 | HD Camera | Opvouwbaar</title>
+    <brand>4DRC</brand>
+    <price>36.58</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/mini-pocket-drone-v2</product_url>
+    <description>4DRC Mini Pocket Drone V2. Compacte en opvouwbare drone met HD-camera, afstandsbediening en ondersteuning voor een smartphone-app. Geschikt voor beginnende dronepiloten. Inclusief dronebatterij, USB-oplaadkabel, telefoonhouder, reservepropellers, propellerbeschermers en schroevendraaier.</description>
+    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTkzNjcwLCJwdXIiOiJibG9iX2lkIn19--b6aec0f4aeb7c5a38af12e978bbb761b401ffcdc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAsMTI4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ%3D%3D--bb4e0307044c40b676c66af4ed598e02263dec70/mini-pocket-drone-v2.jpg</image_url>
+  </product>
+
+</products>
