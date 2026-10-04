@@ -100,4 +100,16 @@
   <description>M33 drone batterij 3.7V 300mAh LiPo, geschikt als vervangende accu voor de M33 drone.</description>
   <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUxNjIxLCJwdXIiOiJibG9iX2lkIn19--fded1c04edff98511899ba5db7f14c7fdd27a25c/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33.jpg</image_url>
 </product>
+  <product>
+  <sku>E88PROBAT-6151025529510</sku>
+  <ean>6151025529510</ean>
+  <title>E88 Pro Batterij | Geschikt voor Quad Drone met Camera | Zwart</title>
+  <brand>E88 Pro</brand>
+  <price>19.00</price>
+  <currency>EUR</currency>
+  <stock>1</stock>
+  <availability>in_stock</availability>
+  <product_url>https://bsmn-company.jortt.shop/product/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart</product_url>
+  <description>E88 Pro batterij, geschikt als vervangende accu voor de E88 Pro quad drone met camera.</description>
+  <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNzg4LCJwdXIiOiJibG9iX2lkIn19--4d89df7062a2028f9a7e00ef1ae7240fb35e8377/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart.jpg</image_url></product>
   </products>
