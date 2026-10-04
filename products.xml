@@ -63,4 +63,16 @@
     <description>S156 drone met GPS, 8K Pro HD 360 camera en obstacle avoidance.</description>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MDQ4LCJwdXIiOiJibG9iX2lkIn19--3801c8f51bbf9b4ed61da3bbc63a01f1364c3ef4/drone-s156-gps-8k-pro-hd-360-camerascherm-obstacle-avoidance.jpg</image_url>
   </product>
+    <product>
+    <sku>E88-8720299544918</sku>
+    <ean>8720299544918</ean>
+    <title>E88 4K Drone | Camera | Opbergtas</title>
+    <brand>E88</brand>
+    <price>39.95</price>
+    <currency>EUR</currency>
+    <stock>1</stock>
+    <availability>in_stock</availability>
+    <product_url>https://bsmn-company.jortt.shop/product/e88-4k-drone-drone-met-camera-en-opbergtas</product_url>
+    <description>E88 4K drone met camera en handige opbergtas.</description><image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyODM3LCJwdXIiOiJibG9iX2lkIn19--aed38dc6bdbe3464824308263faa1e010ac06e53/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--bf55df0cb45a1dbb9fada5a30049eefe0ea7a22f/e88-4k-drone-drone-met-camera-en-opbergtas.jpg</image_url>  
+    </product>
   </products>
