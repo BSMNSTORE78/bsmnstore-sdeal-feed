@@ -74,7 +74,64 @@ Specificaties:
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-controller-big-screen-grijs</product_url>
-    <description>E88 Pro Max drone in grijs met ingebouwde camera en RC-controller met groot scherm. Het grote scherm op de controller zorgt voor een overzichtelijke bediening en directe beeldweergave tijdens het vliegen. Een compacte drone voor het maken van luchtbeelden en recreatief dronevliegen.</description>
+    <description>E88 Pro Max drone in grijs met ingebouwde camera en RC-controller met groot scherm. Het grote scherm op de controller zorgt voor een overzichtelijke bediening en directe beeldweergave tijdens het vliegen. Een compacte drone voor het maken van luchtbeelden en recreatief dronevliegen.<specifications>
+  <specification>
+    <name>Camera</name>
+    <value>Dubbele elektronisch verstelbare camera</value>
+  </specification>
+  <specification>
+    <name>Cameraresolutie</name>
+    <value>8K (geïnterpoleerd)</value>
+  </specification>
+  <specification>
+    <name>Controller</name>
+    <value>RC-controller met 2,5 inch kleurenscherm</value>
+  </specification>
+  <specification>
+    <name>Bediening via smartphone</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>App ondersteuning</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>Vliegtijd</name>
+    <value>8-15 minuten</value>
+  </specification>
+  <specification>
+    <name>Laadtijd</name>
+    <value>60-80 minuten</value>
+  </specification>
+  <specification>
+    <name>One-key take-off</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>One-key landing</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>Headless mode</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>Gesture photography</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>Accu</name>
+    <value>3,7V oplaadbare lithiumbatterij</value>
+  </specification>
+  <specification>
+    <name>Gewicht</name>
+    <value>316 gram</value>
+  </specification>
+  <specification>
+    <name>Kleur</name>
+    <value>Grijs</value>
+  </specification>
+</specifications>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMzI2LCJwdXIiOiJibG9iX2lkIn19--fb9f6cd01c7cd1424a68ae814e24eaffdb9663fe/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/e88-pro-max-camera-drone-rc-controller-with-screen-grijs.png</image_url>
   </product>
 
