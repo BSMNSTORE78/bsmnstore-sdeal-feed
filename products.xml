@@ -41,24 +41,70 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-screen-controller-zwart</product_url>
-    <description><description>E88 Pro Max drone in zwart met camera en RC-controller met geïntegreerd scherm. Dankzij het scherm op de controller heb je de bediening en beeldweergave direct bij de hand. De drone heeft een compact en opvouwbaar ontwerp en is geschikt voor recreatief dronevliegen en het maken van foto's en video's.
+    <description>E88 Pro Max drone in zwart met camera en RC-controller met geïntegreerd scherm. Dankzij het scherm op de controller heb je de bediening en beeldweergave direct bij de hand. De drone is geschikt voor het maken van luchtbeelden en recreatief dronevliegen.</description>
 
-Specificaties:
-- Model: E88 Pro Max
-- Type: quadcopter
-- Kleur: zwart
-- Camera: ja
-- Controller: RC-controller met geïntegreerd scherm
-- Frequentie: 2,4 GHz
-- Opvouwbaar: ja
-- Bediening via mobiele app: ja
-- GPS: nee
-- Automatische obstakelvermijding: nee
-- Automatische terugkeerfunctie: nee
-- Voorgeprogrammeerde trucs: ja
-- Accu: 1 meegeleverde accu
-- Toepassing: foto en video
-- Geschikt voor: buitengebruik</description>
+<specifications>
+  <specification>
+    <name>Model</name>
+    <value>E88 Pro Max</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Quadcopter</value>
+  </specification>
+  <specification>
+    <name>Kleur</name>
+    <value>Zwart</value>
+  </specification>
+  <specification>
+    <name>Camera</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>Controller</name>
+    <value>RC-controller met geïntegreerd scherm</value>
+  </specification>
+  <specification>
+    <name>Frequentie</name>
+    <value>2,4 GHz</value>
+  </specification>
+  <specification>
+    <name>Opvouwbaar</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>Bediening via mobiele app</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>GPS</name>
+    <value>Nee</value>
+  </specification>
+  <specification>
+    <name>Automatische obstakelvermijding</name>
+    <value>Nee</value>
+  </specification>
+  <specification>
+    <name>Automatische terugkeerfunctie</name>
+    <value>Nee</value>
+  </specification>
+  <specification>
+    <name>Voorgeprogrammeerde trucs</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>Accu</name>
+    <value>1 meegeleverde accu</value>
+  </specification>
+  <specification>
+    <name>Toepassing</name>
+    <value>Foto en video</value>
+  </specification>
+  <specification>
+    <name>Geschikt voor</name>
+    <value>Buitengebruik</value>
+  </specification>
+</specifications>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2ODAzLCJwdXIiOiJibG9iX2lkIn19--e3a8ccc53a74809bc5b00373018472edf6e757a8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/drone-camera-rc-screen-controller-zwart.png</image_url><additional_image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk0MDEzLCJwdXIiOiJibG9iX2lkIn19--e5b8ac252b173280d68aae4519128ecd0d95f53a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAsMTI4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ%3D%3D--14b268ecf6f5666b3ccfb8356efda291ec74a7bb/drone-camera-rc-screen-controller-zwart_1.png</additional_image_url>
 <additional_image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk0MDAxLCJwdXIiOiJibG9iX2lkIn19--8bb405c89eb13b3bafb9b21484df3509941eb5b5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAsMTI4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ%3D%3D--14b268ecf6f5666b3ccfb8356efda291ec74a7bb/drone-camera-rc-screen-controller-zwart_2.png</additional_image_url>
 <additional_image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk0MDExLCJwdXIiOiJibG9iX2lkIn19--355deab8d1f392cfb89279bd6aa336055e1a4de1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAsMTI4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ%3D%3D--14b268ecf6f5666b3ccfb8356efda291ec74a7bb/drone-camera-rc-screen-controller-zwart_3.png</additional_image_url>
@@ -74,7 +120,7 @@ Specificaties:
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-controller-big-screen-grijs</product_url>
-    <description><description>E88 Pro Max drone met ingebouwde camera en RC-controller met groot scherm. Het grote scherm op de controller zorgt voor een overzichtelijke bediening en directe beeldweergave tijdens het vliegen. Een compacte drone voor het maken van luchtbeelden en recreatief dronevliegen.</description>
+    <description<description>E88 Pro Max drone met ingebouwde camera en RC-controller met groot scherm. Het grote scherm op de controller zorgt voor een overzichtelijke bediening en directe beeldweergave tijdens het vliegen. Een compacte drone voor het maken van luchtbeelden en recreatief dronevliegen.</description>
 <specifications>
   <specification>
     <name>Camera</name>
@@ -93,7 +139,7 @@ Specificaties:
     <value>Ja</value>
   </specification>
   <specification>
-    <name>App ondersteuning</name>
+    <name>App-ondersteuning</name>
     <value>Ja</value>
   </specification>
   <specification>
