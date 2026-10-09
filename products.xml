@@ -147,7 +147,7 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-camera-rc-controller-big-screen-grijs</product_url>
-    <description<description>E88 Pro Max drone met ingebouwde camera en RC-controller met groot scherm. Het grote scherm op de controller zorgt voor een overzichtelijke bediening en directe beeldweergave tijdens het vliegen. Een compacte drone voor het maken van luchtbeelden en recreatief dronevliegen.</description>
+    <description>E88 Pro Max drone met ingebouwde camera en RC-controller met groot scherm. Het grote scherm op de controller zorgt voor een overzichtelijke bediening en directe beeldweergave tijdens het vliegen. Een compacte drone voor het maken van luchtbeelden en recreatief dronevliegen.</description>
 <specifications>
   <specification>
     <name>Camera</name>
@@ -205,6 +205,30 @@
     <name>Kleur</name>
     <value>Grijs</value>
   </specification>
+<specification>
+  <name>Afmetingen uitgeklapt</name>
+  <value>Ca. 25 x 25 x 5,5 cm</value>
+</specification>
+<specification>
+  <name>Afmetingen ingeklapt</name>
+  <value>Ca. 12,5 x 8 x 5,5 cm</value>
+</specification>
+<specification>
+  <name>Accucapaciteit</name>
+  <value>1800mAh</value>
+</specification>
+<specification>
+  <name>Oplaadtijd</name>
+  <value>Ca. 60 tot 120 minuten</value>
+</specification>
+<specification>
+  <name>Besturingsbereik</name>
+  <value>Ca. 100 meter</value>
+</specification>
+<specification>
+  <name>Motor</name>
+  <value>Coreless brushed motor</value>
+</specification>
 </specifications>
     <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMzI2LCJwdXIiOiJibG9iX2lkIn19--fb9f6cd01c7cd1424a68ae814e24eaffdb9663fe/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/e88-pro-max-camera-drone-rc-controller-with-screen-grijs.png</image_url>
   </product>
