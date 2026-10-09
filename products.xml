@@ -243,8 +243,33 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-gps-8k-pro-hd-360-camerascherm-obstacle-avoidance</product_url>
-    <description>S156 drone met GPS, 8K Pro HD 360-camera en obstacle avoidance. De combinatie van GPS-ondersteuning, camera en obstakeldetectie biedt extra mogelijkheden tijdens het vliegen en het maken van luchtbeelden. Een uitgebreid model voor recreatief dronegebruik.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MDQ4LCJwdXIiOiJibG9iX2lkIn19--3801c8f51bbf9b4ed61da3bbc63a01f1364c3ef4/drone-s156-gps-8k-pro-hd-360-camerascherm-obstacle-avoidance.jpg</image_url>
+    <description>De S156 is een opvouwbare cameradrone met GPS-positionering, een 8K Pro HD-camera volgens de productuitvoering en 360 graden obstacle avoidance. De drone is ontworpen voor het maken van luchtfoto's en video's. Functies zijn onder andere GPS-ondersteuning, camerabediening, obstakeldetectie en een compact opvouwbaar ontwerp. Technische kenmerken: model S156; camerafunctie voor foto en video; GPS-positionering; obstacle avoidance; opvouwbare quadcopter. De exacte afmetingen, accucapaciteit, vliegtijd, oplaadtijd en het besturingsbereik zijn voor deze uitvoering nog niet bevestigd.</description>     
+<specifications>
+  <specification>
+    <name>Model</name>
+    <value>S156</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Opvouwbare cameradrone</value>
+  </specification>
+  <specification>
+    <name>GPS</name>
+    <value>Ja</value>
+  </specification>
+  <specification>
+    <name>Camera</name>
+    <value>8K Pro HD volgens productuitvoering</value>
+  </specification>
+  <specification>
+    <name>Obstacle avoidance</name>
+    <value>360 graden volgens productuitvoering</value>
+  </specification>
+  <specification>
+    <name>Toepassing</name>
+    <value>Luchtfotografie en video</value>
+  </specification>
+</specifications><image_url>https://bsmncompany.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MDQ4LCJwdXIiOiJibG9iX2lkIn19--3801c8f51bbf9b4ed61da3bbc63a01f1364c3ef4/drone-s156-gps-8k-pro-hd-360-camerascherm-obstacle-avoidance.jpg</image_url>
   </product>
 
   <product>
