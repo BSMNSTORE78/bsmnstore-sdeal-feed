@@ -282,8 +282,29 @@
     <stock>1</stock>
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/e88-4k-drone-drone-met-camera-en-opbergtas</product_url>
-    <description>E88 4K drone met camera en handige opbergtas. Het compacte ontwerp maakt de drone eenvoudig mee te nemen en de camera is geschikt voor het maken van luchtbeelden tijdens recreatief gebruik. De meegeleverde opbergtas helpt de drone en accessoires netjes te bewaren en te vervoeren.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyODM3LCJwdXIiOiJibG9iX2lkIn19--aed38dc6bdbe3464824308263faa1e010ac06e53/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--bf55df0cb45a1dbb9fada5a30049eefe0ea7a22f/e88-4k-drone-drone-met-camera-en-opbergtas.jpg</image_url>
+    <description>De E88 4K is een compacte, opvouwbare cameradrone met camera en meegeleverde opbergtas. De drone is geschikt voor recreatief gebruik en het maken van luchtfoto's en video's. Dankzij het opvouwbare ontwerp is de drone gemakkelijk mee te nemen en op te bergen. Technische kenmerken: model E88; 4K-camera volgens productuitvoering; opvouwbare quadcopter; geschikt voor foto en video; inclusief opbergtas. De exacte afmetingen, accucapaciteit, vliegtijd, oplaadtijd en het besturingsbereik zijn voor deze uitvoering nog niet bevestigd.</description>    
+    <specifications>
+  <specification>
+    <name>Model</name>
+    <value>E88</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Opvouwbare cameradrone</value>
+  </specification>
+  <specification>
+    <name>Camera</name>
+    <value>4K volgens productuitvoering</value>
+  </specification>
+  <specification>
+    <name>Toepassing</name>
+    <value>Foto en video</value>
+  </specification>
+  <specification>
+    <name>Accessoires</name>
+    <value>Inclusief opbergtas</value>
+  </specification>
+</specifications>    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyODM3LCJwdXIiOiJibG9iX2lkIn19--aed38dc6bdbe3464824308263faa1e010ac06e53/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--bf55df0cb45a1dbb9fada5a30049eefe0ea7a22f/e88-4k-drone-drone-met-camera-en-opbergtas.jpg</image_url>
   </product>
 
   <product>
@@ -297,7 +318,48 @@
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/drone-hd-dual-camera-etui-1-batterij-grijs</product_url>
     <description>E88 Pro drone in grijs met HD dual camera, 1 batterij en opbergetui. De dubbele camera biedt verschillende mogelijkheden voor het maken van luchtbeelden. Dankzij het compacte ontwerp en het meegeleverde etui is de drone gemakkelijk op te bergen en mee te nemen.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTExLCJwdXIiOiJibG9iX2lkIn19--0d8b6bc09e75dbe21c5f45fe43a07a2e8f6a60d9/e88-drone-drone-hd-dual-camer-1-batt-etui-grijs.jpg</image_url>
+    <specifications>
+  <specification>
+    <name>Model</name>
+    <value>E88 Pro</value>
+  </specification>
+  <specification>
+    <name>Kleur</name>
+    <value>Grijs</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Opvouwbare cameradrone</value>
+  </specification>
+  <specification>
+    <name>Camera</name>
+    <value>HD dual camera</value>
+  </specification>
+  <specification>
+    <name>Afmetingen uitgeklapt</name>
+    <value>Ca. 25 x 25 x 5,3 cm</value>
+  </specification>
+  <specification>
+    <name>Afmetingen ingeklapt</name>
+    <value>Ca. 12,5 x 8 x 5,5 cm</value>
+  </specification>
+  <specification>
+    <name>Accu</name>
+    <value>3,7V 1800mAh LiPo</value>
+  </specification>
+  <specification>
+    <name>Vliegtijd</name>
+    <value>Ca. 10 tot 15 minuten</value>
+  </specification>
+  <specification>
+    <name>Besturingsbereik</name>
+    <value>Ca. 100 meter</value>
+  </specification>
+  <specification>
+    <name>Meegeleverd</name>
+    <value>1 batterij en opbergetui</value>
+  </specification>
+</specifications>    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTExLCJwdXIiOiJibG9iX2lkIn19--0d8b6bc09e75dbe21c5f45fe43a07a2e8f6a60d9/e88-drone-drone-hd-dual-camer-1-batt-etui-grijs.jpg</image_url>
   </product>
 
   <product>
@@ -311,7 +373,32 @@
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33</product_url>
     <description>M33 drone batterij van 3.7V en 300mAh LiPo, geschikt als vervangende of extra accu voor de M33 drone. Handig als reservebatterij zodat je een extra accu beschikbaar hebt wanneer de oorspronkelijke batterij moet worden opgeladen.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUxNjIxLCJwdXIiOiJibG9iX2lkIn19--fded1c04edff98511899ba5db7f14c7fdd27a25c/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33.jpg</image_url>
+    <specifications>
+  <specification>
+    <name>Model</name>
+    <value>M33 Drone Batterij</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Vervangende droneaccu</value>
+  </specification>
+  <specification>
+    <name>Spanning</name>
+    <value>3,7V</value>
+  </specification>
+  <specification>
+    <name>Capaciteit</name>
+    <value>300mAh</value>
+  </specification>
+  <specification>
+    <name>Batterijtype</name>
+    <value>LiPo</value>
+  </specification>
+  <specification>
+    <name>Geschikt voor</name>
+    <value>M33 Drone volgens productuitvoering</value>
+  </specification>
+</specifications>    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUxNjIxLCJwdXIiOiJibG9iX2lkIn19--fded1c04edff98511899ba5db7f14c7fdd27a25c/m33-drone-batterij-37v-300mah-lipoaccu-onderdeel-m33.jpg</image_url>
   </product>
 
   <product>
@@ -325,7 +412,28 @@
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart</product_url>
     <description>E88 Pro batterij in zwart, geschikt als vervangende of extra accu voor de E88 Pro quad drone met camera. Ideaal als reservebatterij wanneer je een extra accu bij de hand wilt hebben tijdens het gebruik van de drone.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNzg4LCJwdXIiOiJibG9iX2lkIn19--4d89df7062a2028f9a7e00ef1ae7240fb35e8377/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart.jpg</image_url>
+    <specifications>
+  <specification>
+    <name>Model</name>
+    <value>E88 Pro Batterij</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Vervangende droneaccu</value>
+  </specification>
+  <specification>
+    <name>Kleur</name>
+    <value>Zwart</value>
+  </specification>
+  <specification>
+    <name>Geschikt voor</name>
+    <value>E88 Pro drone volgens productuitvoering</value>
+  </specification>
+  <specification>
+    <name>Toepassing</name>
+    <value>Reserveaccu voor cameradrone</value>
+  </specification>
+</specifications>    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNzg4LCJwdXIiOiJibG9iX2lkIn19--4d89df7062a2028f9a7e00ef1ae7240fb35e8377/e88-pro-batterij-geschikt-voor-quad-drone-met-camera-zwart.jpg</image_url>
   </product>
 
   <product>
@@ -339,7 +447,28 @@
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/rc-drone-batterij-37-v-1800-mah-uavbatterij-met-hoge-capaciteit</product_url>
     <description>E88 RC drone batterij van 3.7V en 1800mAh met hoge capaciteit, geschikt als vervangende of extra UAV-batterij. Handig als reserveaccu voor compatibele drones zodat je een extra batterij beschikbaar hebt wanneer de andere wordt opgeladen.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTQ4LCJwdXIiOiJibG9iX2lkIn19--1e2d1a6f89128664e6ea6071081fe3169d0045d4/rc-dronebatterij-37-v-1800-mah-uavbatterij-grijs.jpg</image_url>
+    <specifications>
+  <specification>
+    <name>Model</name>
+    <value>E88 RC Drone Batterij</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Vervangende droneaccu</value>
+  </specification>
+  <specification>
+    <name>Spanning</name>
+    <value>3,7V</value>
+  </specification>
+  <specification>
+    <name>Capaciteit</name>
+    <value>1800mAh</value>
+  </specification>
+  <specification>
+    <name>Toepassing</name>
+    <value>Reserveaccu voor compatibele RC drones</value>
+  </specification>
+</specifications>    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTQ4LCJwdXIiOiJibG9iX2lkIn19--1e2d1a6f89128664e6ea6071081fe3169d0045d4/rc-dronebatterij-37-v-1800-mah-uavbatterij-grijs.jpg</image_url>
   </product>
 
   <product>
@@ -353,7 +482,52 @@
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/k11-drone-8k-3x-hd-camera-video-4k-5g-obstacle-avoidance</product_url>
     <description>K11 drone met 3 HD-camera's, 4K-video, 5G-verbinding en obstacle avoidance. De combinatie van meerdere camera's en obstakeldetectie biedt uitgebreide mogelijkheden voor het maken van luchtbeelden. Ontworpen voor recreatief vliegen met een veelzijdige camera-opstelling.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY1MDA2LCJwdXIiOiJibG9iX2lkIn19--6e90458705240a2d0317a5af82a1e25525fb2248/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/K11%201.png</image_url>
+    <specifications>
+  <specification>
+    <name>Model</name>
+    <value>K11</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Opvouwbare cameradrone</value>
+  </specification>
+  <specification>
+    <name>Camera</name>
+    <value>3 HD-camera's, 8K volgens productuitvoering</value>
+  </specification>
+  <specification>
+    <name>Video</name>
+    <value>4K volgens productuitvoering</value>
+  </specification>
+  <specification>
+    <name>Afmetingen uitgeklapt</name>
+    <value>Ca. 48 x 40 x 9 cm</value>
+  </specification>
+  <specification>
+    <name>Afmetingen ingeklapt</name>
+    <value>Ca. 22 x 12 x 9 cm</value>
+  </specification>
+  <specification>
+    <name>Accu</name>
+    <value>11,1V 3500mAh</value>
+  </specification>
+  <specification>
+    <name>Vliegtijd</name>
+    <value>Ca. 30 minuten</value>
+  </specification>
+  <specification>
+    <name>GPS</name>
+    <value>Volgens productuitvoering</value>
+  </specification>
+  <specification>
+    <name>Obstacle avoidance</name>
+    <value>Ja, volgens productuitvoering</value>
+  </specification>
+  <specification>
+    <name>Beeldoverdracht</name>
+    <value>5G volgens productuitvoering</value>
+  </specification>
+</specifications>    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY1MDA2LCJwdXIiOiJibG9iX2lkIn19--6e90458705240a2d0317a5af82a1e25525fb2248/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyNTYwLDIwNDhdfSwicHVyIjoidmFyaWF0aW9uIn19--4c55da6eaf1291da5571300d6e49790d09e185ad/K11%201.png</image_url>
   </product>
 
   <product>
@@ -367,7 +541,36 @@
     <availability>in_stock</availability>
     <product_url>https://bsmn-company.jortt.shop/product/mini-pocket-drone-v2</product_url>
     <description>4DRC Mini Pocket Drone V2. Compacte en opvouwbare drone met HD-camera, afstandsbediening en ondersteuning voor een smartphone-app. Geschikt voor beginnende dronepiloten. Inclusief dronebatterij, USB-oplaadkabel, telefoonhouder, reservepropellers, propellerbeschermers en schroevendraaier.</description>
-    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTkzNjcwLCJwdXIiOiJibG9iX2lkIn19--b6aec0f4aeb7c5a38af12e978bbb761b401ffcdc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAsMTI4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ%3D%3D--bb4e0307044c40b676c66af4ed598e02263dec70/mini-pocket-drone-v2.jpg</image_url>
+    <specifications>
+  <specification>
+    <name>Model</name>
+    <value>4DRC Mini Pocket Drone V2</value>
+  </specification>
+  <specification>
+    <name>Type</name>
+    <value>Opvouwbare mini cameradrone</value>
+  </specification>
+  <specification>
+    <name>Camera</name>
+    <value>HD-camera</value>
+  </specification>
+  <specification>
+    <name>Bediening</name>
+    <value>Afstandsbediening en smartphone-app</value>
+  </specification>
+  <specification>
+    <name>Doelgroep</name>
+    <value>Beginnende dronepiloten</value>
+  </specification>
+  <specification>
+    <name>Ontwerp</name>
+    <value>Compact en opvouwbaar</value>
+  </specification>
+  <specification>
+    <name>Meegeleverd</name>
+    <value>Dronebatterij, oplaadkabel, telefoonhouder, reservepropellers, propellerbeschermers en schroevendraaier</value>
+  </specification>
+</specifications>    <image_url>https://bsmn-company.jortt.shop/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTkzNjcwLCJwdXIiOiJibG9iX2lkIn19--b6aec0f4aeb7c5a38af12e978bbb761b401ffcdc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAsMTI4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ%3D%3D--bb4e0307044c40b676c66af4ed598e02263dec70/mini-pocket-drone-v2.jpg</image_url>
   </product>
 
 </products>
